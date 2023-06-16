@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest-mock-random": "^1.0.2"
+    "jest-mock-random": "^1.1.1"
+  },
+  "dependencies": {
+    "jasmine": "^5.0.1"
   }
 }
